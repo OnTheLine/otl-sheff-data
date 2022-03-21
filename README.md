@@ -20,3 +20,46 @@ Sheff v O'Neill school integration public data for OnTheLine.trincoll.edu book
 - Sources:
   - For October 2019-2020-2021: CSDE, Summary of All Hartford-Resident, Minority, PK-12 Public School Students Enrolled in School Meeting Reduced Isolation (RI) Goal (see PDF in repo)
   - For October 2004-2018: Jacqueline Rabe Thomas, CT Mirror chart https://projects.ctmirror.org/tools/chart/charts/WhereHartfordminoritystudentsattendschool-4-11-2018-36291.html, in Jacqueline Rabe Thomas, “Segregated Hartford Schools Await next Governor,” CT Mirror, December 27, 2018, https://ctmirror.org/2018/12/27/segregated-hartford-schools-await-next-governor/, with chart backup in otl-ctm-projects repo
+
+## Socioeconomic Integration by Magnet School Incoming Enrollments, 2020  
+![screenshot](2020-socioeconomic-integration-magnet-incoming.png)
+- [interactive chart in Datawrapper](https://datawrapper.dwcdn.net/yScl5/5/)
+- by Victoria Asfalg '23 and Joe He '24, Trinity College
+- [Get the Data](2020-socioeconomic-integration-magnet-incoming.csv)
+- Sheff 2022 definition: At least 30% high-income students, but no more than 60% low-income students, for incoming enrollments.
+- See visual definition PNG:
+![screenshot](define-ses-integration.png)
+- See also [visual definition PSD file for editing](define-ses-integration.psd)
+- Note: Socioeconomic data shown for incoming enrollments only in October 2020. SES tiers defined by student's census block demographics and self-reported household data.
+- Source: October 2020 socioeconomic integration by magnet school, for incoming enrollments only, CSDE, Comprehensive School Choice Plan, Jan 2022, PDF pages 69-72, <http://civilinquiry.jud.ct.gov/DocumentInquiry/DocumentInquiry.aspx?DocumentNo=22109303>
+- See also Sheff 2020 settlement for more details about socioeconomic integration
+
+## Suburban Enrollments for Open Choice, 2022
+![screenshot](2022-02-open-choice-by-district.png)
+- [interactive table in Datawrapper](https://datawrapper.dwcdn.net/Qrb7J/2/)
+- by Azka Hassan '23 and Sophia Jones '24, Trinity College
+- [Get the Data](2022-02-open-choice-by-district.csv)
+- Note: As of February 2022, Open Choice enrolled 2,160 Hartford students in suburban schools, plus 85 suburban students in non-magnet Hartford Public Schools. Bloomfield, East Hartford, Manchester, New Britain, and Windsor School Districts are not eligible to receive Open Choice students from Hartford. Total enrollments from Oct 2021.
+- Sources:
+  - Open Choice enrollments (as of 11 Feb 2022) from [CREC Open Choice presentation and data 2022](2022-02-19-CREC-OpenChoicePres-Data.pdf)
+  - District enrollments, October 2021, downloaded from CSDE EdSight <https://edsight.ct.gov/SASPortal/main.do>
+
+## Test Disparities by Race in Magnet Schools, 2018-19
+![screenshot](2018-19-SBAC-math-goal-race-magnet.png)
+- [interactive chart in Datawrapper](https://datawrapper.dwcdn.net/FdI8o/2/)
+- by Daisy Li '24 and Teddy Komjathy '24, Trinity College
+- [Get the Data](2018-19-SBAC-math-goal-race-magnet.csv)
+- Note: Only selected magnet schools shown due to different tests by grade levels and data suppression for small groups. Based on most recently available disaggregated public data.
+- Source: CSDE EdSight <https://edsight.ct.gov/SASPortal/main.do>
+- We would prefer that the chart above not focus on Black student versus White student outcomes in magnet schools. Instead, a better measure of quality integrated education inside Sheff schools would be Hartford-resident versus non-Hartford-resident data across a wider range of student outcomes, not just test proficiency. In fact, the Data Transparency and Public Data sections of the [Sheff 2020 settlement](http://civilinquiry.jud.ct.gov/DocumentInquiry/DocumentInquiry.aspx?DocumentNo=18496368) and the [Sheff 2022 settlement](https://civilinquiry.jud.ct.gov/DocumentInquiry/DocumentInquiry.aspx?DocumentNo=22109303) require CSDE to share disaggregated student data by town of residence for various outcomes (test performance and growth, attendance, graduation, suspensions and expulsions, etc.). But CSDE has not yet made this type of disaggregated data publicly available.
+- To fulfill the terms of the 2022 settlement, CSDE should report disaggregated student data in two larger residential groups---Hartford-residents and non-Hartford-residents---to show meaningful information about educational quality inside Sheff schools, while avoiding small-cell data suppression issues that would arise when reporting individual towns of residence. Furthermore, CSDE should report this disaggregated data by residential group for all Sheff schools, not just interdistrict magnets, as shown below:  
+
+| School Name          | Hartford-resident data | Non-Hartford-resident data |
+|----------------------|------------------------|----------------------------|
+| Magnet School A      |                        |                            |
+| Magnet School B      |                        |                            |
+| Magnet School C      |                        |                            |
+| Open Choice School D |                        |                            |
+| Open Choice School E |                        |                            |
+| Open Choice School F |                        |                            |
+| CT Tech School G     |                        |                            |
