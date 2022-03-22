@@ -1,10 +1,13 @@
 # otl-sheff-data
 Sheff v O'Neill school integration public data for OnTheLine.trincoll.edu book
 
+Learn more at <https://OnTheLine.trincoll.edu>
+
+To re-use visualizations (and credit the authors), go to the [Datawrapper River](https://app.datawrapper.de/river/) and search "ontheline" for items related to the [On The Line](https://ontheline.trincoll.edu) book-in-progress. To learn how to use the free Datawrapper data visualization tool, see [Chapter 6: Chart Your Data](https://handsondataviz.org/chart.html) in the open-access book by Jack Dougherty and Ilya Ilyankou, [Hands-On Data Visualization](https://handsondataviz.org), (2021).
 
 ## Meet Demand for Hartford Black and Latino Students in Diverse Schools, 2019-2021
 ![screenshot](2019-2021-meet-demand.png)
-- [interactive chart in Datawrapper](https://datawrapper.dwcdn.net/GkjCa/3/)
+- [interactive chart in Datawrapper](https://datawrapper.dwcdn.net/qeZTm/1/)
 - by OnTheLine.trincoll.edu
 - [Get the Data](2019-2021-meet-demand.csv)
 - Note: Sheff 2022 settlement measures demand as Hartford-resident Black and Latino students who apply to at least two magnet schools, or any combination of Open Choice, magnet schools, and tech schools. Chart shows estimates because data that meets demand definition is not yet publicly available. Year refers to lottery application period (e.g. early 2021) for the upcoming school year (e.g. 2021-2022).
@@ -13,7 +16,7 @@ Sheff v O'Neill school integration public data for OnTheLine.trincoll.edu book
 
 ## Hartford Black and Latino Students in Diverse Schools, 2004-2021
 ![screenshot](2004-2021-hartford-black-latino-diverse-schools.png)
-- [interactive chart in Datawrapper](https://datawrapper.dwcdn.net/0O6sz/3/)
+- [interactive chart in Datawrapper](https://datawrapper.dwcdn.net/wcDgI/1/)
 - by Michael Kulik '23 and Maria Vicuna '24, Trinity College
 - [Get the Data](2004-2021-hartford-black-latino-diverse-schools.csv)
 - Note: Definitions of Reduced-Isolation Schools and Minority Students changed over time in Sheff v O'Neill legal settlements. Does not include Interdistrict Cooperative Grant percentages. Shows October enrollments (e.g. 2021) for school year (e.g. 2021-2022).
@@ -23,7 +26,7 @@ Sheff v O'Neill school integration public data for OnTheLine.trincoll.edu book
 
 ## Socioeconomic Integration by Magnet School Incoming Enrollments, 2020  
 ![screenshot](2020-socioeconomic-integration-magnet-incoming.png)
-- [interactive chart in Datawrapper](https://datawrapper.dwcdn.net/yScl5/5/)
+- [interactive chart in Datawrapper](https://datawrapper.dwcdn.net/ckxTr/1/)
 - by Victoria Asfalg '23 and Joe He '24, Trinity College
 - [Get the Data](2020-socioeconomic-integration-magnet-incoming.csv)
 - Sheff 2022 definition: At least 30% high-income students, but no more than 60% low-income students, for incoming enrollments.
@@ -36,7 +39,7 @@ Sheff v O'Neill school integration public data for OnTheLine.trincoll.edu book
 
 ## Suburban Enrollments for Open Choice, 2022
 ![screenshot](2022-02-open-choice-by-district.png)
-- [interactive table in Datawrapper](https://datawrapper.dwcdn.net/Qrb7J/2/)
+- [interactive table in Datawrapper](https://datawrapper.dwcdn.net/g7UYm/1/)
 - by Azka Hassan '23 and Sophia Jones '24, Trinity College
 - [Get the Data](2022-02-open-choice-by-district.csv)
 - Note: As of February 2022, Open Choice enrolled 2,160 Hartford students in suburban schools, plus 85 suburban students in non-magnet Hartford Public Schools. Bloomfield, East Hartford, Manchester, New Britain, and Windsor School Districts are not eligible to receive Open Choice students from Hartford. Total enrollments from Oct 2021.
@@ -46,7 +49,7 @@ Sheff v O'Neill school integration public data for OnTheLine.trincoll.edu book
 
 ## Test Disparities by Race in Magnet Schools, 2018-19
 ![screenshot](2018-19-SBAC-math-goal-race-magnet.png)
-- [interactive chart in Datawrapper](https://datawrapper.dwcdn.net/FdI8o/2/)
+- [interactive chart in Datawrapper](https://datawrapper.dwcdn.net/K9q0M/2/)
 - by Daisy Li '24 and Teddy Komjathy '24, Trinity College
 - [Get the Data](2018-19-SBAC-math-goal-race-magnet.csv)
 - Note: Only selected magnet schools shown due to different tests by grade levels and data suppression for small groups. Based on most recently available disaggregated public data.
