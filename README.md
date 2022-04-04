@@ -24,6 +24,15 @@ To re-use visualizations (and credit the authors), go to the [Datawrapper River]
   - For October 2019-2020-2021: CSDE, Summary of All Hartford-Resident, Minority, PK-12 Public School Students Enrolled in School Meeting Reduced Isolation (RI) Goal (see PDF in repo)
   - For October 2004-2018: Jacqueline Rabe Thomas, CT Mirror chart https://projects.ctmirror.org/tools/chart/charts/WhereHartfordminoritystudentsattendschool-4-11-2018-36291.html, in Jacqueline Rabe Thomas, “Segregated Hartford Schools Await next Governor,” CT Mirror, December 27, 2018, https://ctmirror.org/2018/12/27/segregated-hartford-schools-await-next-governor/, with chart backup in otl-ctm-projects repo
 
+## Total Sheff Applications at 71% of Pre-Pandemic Levels, 2019-2022
+![screenshot](2019-2022-total-applications.png)
+- [interactive chart in Datawrapper](https://datawrapper.dwcdn.net/AnoKO/4/)
+- by OnTheLine.trincoll.edu
+- [Get the Data](2019-2022-total-applications.md)
+- Note: Total applications to Regional School Choice Office for lottery year at end of March (or March 21st for 2022).
+- 13,693 / 19,246 = 71%
+- Source: CSDE email from Robin Cecere, 4 April 2022
+
 ## Socioeconomic Integration by Magnet School Incoming Enrollments, 2020  
 ![screenshot](2020-socioeconomic-integration-magnet-incoming.png)
 - [interactive chart in Datawrapper](https://datawrapper.dwcdn.net/ckxTr/1/)
